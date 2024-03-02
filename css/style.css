@@ -116,7 +116,7 @@ section {
 .home {
     min-height: 100vh;
     padding-top: 12rem;
-    background: url(../image/home-bg.jpg) no-repeat;
+    background: url(../image/home-bg.png) no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -466,30 +466,6 @@ section {
 .footer .credit span {
     border-bottom: var(--border-hover);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
